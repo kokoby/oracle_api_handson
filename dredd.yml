@@ -1,7 +1,7 @@
 reporter: apiary
 custom:
-  apiaryApiKey: 
-  apiaryApiName: 
+  apiaryApiKey: e14043e14c413e5d1b09e6ce5a65771c
+  apiaryApiName: kokoby
 dry-run: null
 hookfiles: null
 language: nodejs
